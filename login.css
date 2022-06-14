@@ -1,0 +1,24 @@
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+
+  }
+body {
+
+    background: rgb(233, 89, 89);
+}
+
+#conteiner-1{
+    margin: top 20px;
+
+    color: white;
+
+}
+#btn-1{
+
+    width: 100%;
+    background-color: blueviolet;
+
+}
+
